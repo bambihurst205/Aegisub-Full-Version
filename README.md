@@ -241,4 +241,4 @@ This repository serves as the official landing page for Aegisub. The software is
 **Get the most recent version of Aegisub today!**
 
 ---
-**Last updated:** 2026-09-09 03:01:16 UTC
+**Last updated:** 2026-09-09 08:35:59 UTC
